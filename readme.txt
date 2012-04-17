@@ -15,7 +15,7 @@ Event Manager uses a Custom Post Type for the events, making it compatible with 
 
 The project is maintained on [GitHub](https://github.com/Ramoonus/EventMan).
 
-= Original Code =
+Original Code
 
 You can follow the original tutorial by [Noel Tock](http://www.noeltock.com/) here:
 
